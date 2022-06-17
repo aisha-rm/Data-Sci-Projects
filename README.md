@@ -1,2 +1,2 @@
 # Projects
-A record of projects I have worked on.
+A record of data science realated projects I have worked on.
